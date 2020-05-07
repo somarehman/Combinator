@@ -1,0 +1,104 @@
+body{
+    margin:0;
+    padding:0;
+}
+img {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    z-index: -1;
+   
+  }
+  h1{
+      text-align: center;
+   color: white;
+    margin-top: 200px;
+   font-size: 350%;
+  }
+  p{
+    color: white;
+    text-align: center;
+    font-size: 140%;
+
+    
+}
+#button{
+    padding: 20px 40px;
+    color: gray;
+   margin: 0px 45em;
+   background-color: black;
+}
+#service figure {
+
+        display: inline-block;
+        padding: 8em;
+
+        margin:0 1em;
+}
+figcaption p{
+    text-align: center;
+   color: black;
+   font-size:50%;
+
+}
+ h2{
+    text-align: center;
+   padding: 1em;
+   font-size: 2em;
+
+ 
+}
+#service figure i{
+    margin:0em 1em;
+    font-size: 200%;
+    padding: 24px 22px;
+    border: 1px solid black;
+    border-radius: 40px;
+}
+#service figure:hover i{
+ background-color:black;
+ color:aliceblue;
+ cursor: pointer;
+}
+#service{
+    background-color: orange;
+}
+#contact i{
+    display: inline-block;
+   
+    border-radius: 40px;
+    border: 1px solid black;
+    padding: 24px 22px;
+    margin-left: 8em;
+    font-size: 200%;
+ 
+    
+}
+#contact{
+    padding: 3em;
+}
+h3{
+    text-align: center;
+    font-size: 150%;
+}
+footer{
+    background-color: burlywood;
+    padding: 2em;
+}
+footer i{
+    padding: 0.5em;
+}
+footer p{
+    color:black;
+}
+
+footer:hover i{
+    color: red;
+
+}
+#contact i:hover{
+    background-color: black;
+    color: seashell;
+    cursor: pointer;
+
+}
