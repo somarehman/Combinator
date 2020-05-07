@@ -102,3 +102,6 @@ footer:hover i{
     cursor: pointer;
 
 }
+i{
+    transition:color 3s; background-color:1s;
+    }
